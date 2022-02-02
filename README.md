@@ -1,1 +1,2 @@
-# Lab-4-Version-Control
+Name: David Shackelford
+Assignment: Lab 4: Version Control
